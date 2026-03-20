@@ -1,2 +1,3 @@
-# fast-file-sharing-3l59
+# Fast File Sharing 3L59
+
 A repository to test GitHub automation for issue management.
